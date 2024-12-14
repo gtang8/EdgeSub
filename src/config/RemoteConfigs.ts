@@ -5,7 +5,7 @@ type RemoteConfig = {
 
 export const RemoteConfigs: RemoteConfig[] = [
     {
-        key: "ACL_Mini",
+        key: "GT_Mini",
         value: "https://raw.githubusercontent.com/gtang8/ACL4SSR/master/Clash/config/ACL4SSR_Mini.ini"
     },
     {
