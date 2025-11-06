@@ -5,8 +5,8 @@ type RuleProvider = {
 
 export const RuleProviders: RuleProvider[] = [
     {
-        key: "最小配置", 
-        value: "__DEFAULT"
+        key: "GT-Lite",
+        value: "https://raw.githubusercontent.com/gtang8/ACL4SSR/master/Clash/config/ACL4SSR_Mini.ini"
     },
     {
         key: "ACL_默认版",
